@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[904],{68099:(e,n,t)=>{Promise.resolve().then(t.bind(t,81739))},81739:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>l});var s=t(73365),u=t(36476),r=t(32761);function l(){let{t:e}=(0,r.n)();return(0,s.jsx)(u.t,{title:e("nav.menu")})}}},e=>{e.O(0,[806,761,476,347,131,358],()=>e(e.s=68099)),_N_E=e.O()}]);

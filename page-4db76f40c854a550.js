@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[429],{87604:(t,e,n)=>{Promise.resolve().then(n.bind(n,97682))},97682:(t,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>u});var s=n(73365),o=n(36476),r=n(32761);function u(){let{t}=(0,r.n)();return(0,s.jsx)(o.t,{group:"hotpot",title:t("nav.hotpot")})}}},t=>{t.O(0,[806,761,476,347,131,358],()=>t(t.s=87604)),_N_E=t.O()}]);
